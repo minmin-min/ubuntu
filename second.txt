@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 second..
+=======
+second!
+>>>>>>> feat_second
